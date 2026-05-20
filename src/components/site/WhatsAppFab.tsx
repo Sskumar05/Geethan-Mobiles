@@ -3,7 +3,7 @@ import whatsappIcon from "./Whatsapp Icon.png";
 export function WhatsAppFab() {
   return (
     <a
-      href="https://wa.me/918825622722"
+      href="https://wa.me/919944911273"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
